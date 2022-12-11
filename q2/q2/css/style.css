@@ -15,8 +15,8 @@
   list-style: none;
 }
 .list-card:first-child {
-  margin-left: 0px;
+  margin-left: 0;
 }
 .list-card:last-child {
-  margin-right: 0px;
+  margin-right: 0;
 }
